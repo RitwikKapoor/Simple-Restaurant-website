@@ -28,6 +28,7 @@ body{
     border-radius: 40px;
     cursor:pointer;
     outline:none;
+    border: none;
     margin-top: 1em;
     text-transform: uppercase;
     font-weight: 500;
@@ -36,7 +37,7 @@ body{
     color: #ffffff;
     background: #16a083;
 }
-.btn-primary:hover{
+.btn-primary:hover,.submit-button:hover{
     color:#fff;
     background: #128068;
     transition: background 0.3s ease-in;
@@ -361,7 +362,7 @@ margin: auto;
     font-weight: 500;
     color:#fff;
     background: rgb(65,65,65);
-}
+} 
 /* ########### media queries ############ */
 
 /* navbar */
