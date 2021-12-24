@@ -1,4 +1,6 @@
 # Simple-Restaurant-website 
-This only uses CSS and HTML
+This only uses CSS and HTML. 
+
+
 Link:
 https://canary-restaurant.netlify.app/index.html
